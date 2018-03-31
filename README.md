@@ -1,0 +1,1 @@
+# mvn-coveralls-multimodule-tests
